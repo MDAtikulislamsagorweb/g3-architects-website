@@ -1,0 +1,24 @@
+.body{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.btn1{
+    color: blue;
+    background-color: brown;
+}
+.btn2{
+    color:red;
+    background-color: blue;
+}
+.btn3{
+    color:aqua;
+    background-color: black;
+}
+.btn4{
+    color:white;
+    background-color:darkslategrey;
+}
+.btn5{
+    color:rgb(246, 250, 247);
+    background-color:dodgerblue;
+}

@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li  a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 20px 20px;
+    margin-left: 200%;
+    text-decoration: none;
+  }
+  .main-contain{
+    margin: 0;
+    background-image:url("img/bannarimg.jpeg");
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  

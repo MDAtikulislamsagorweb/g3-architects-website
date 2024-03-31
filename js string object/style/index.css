@@ -1,0 +1,22 @@
+h1 {
+    color: blueviolet;
+    margin-top:50px;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    margin-top: 50px;
+    background: red;
+    display: flex;
+    justify-content: center;
+}
+.img{
+    gap: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.img2nd{
+    margin-top: 50px;
+    gap: 50px;
+}
